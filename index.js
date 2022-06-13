@@ -32,3 +32,4 @@ painting.addEventListener('click', function(e) {    // accepting e in our event 
 2. the color is changed to green. --> event listener with e target.
 3. user clicks on painting.
 4. green square appears.
+*/
